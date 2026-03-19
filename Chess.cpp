@@ -475,5 +475,3 @@ int main() {
 
 
 
- //made by
-// Haris Arfan (25L-0758), Muhammad Ahmad Manzoor (25L-0784) , Hassan Tahir (25L-0898)
